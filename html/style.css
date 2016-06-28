@@ -1,0 +1,7 @@
+body { background-color: #abc }
+h3{ font-size:1cm; text-align: center; color: black;
+text-shadow: 0 0 1mm red}
+h5{ font-size:0.6cm; text-align: left; color: black;
+text-shadow: 0 0 1mm yellow}
+a{ text-align: center; color: blue;
+text-shadow: 0 0 1mm orange}
